@@ -1,2 +1,6 @@
 how to pull from git repository
+
 lets add a merge conflict
+
+FML! whats gonna happen now? 
+

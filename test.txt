@@ -1,1 +1,2 @@
 how to pull from git repository
+lets add a merge conflict
